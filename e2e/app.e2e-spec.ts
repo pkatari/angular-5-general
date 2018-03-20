@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('general-angular App', () => {
+describe('ngrx-sample-app App', () => {
   let page: AppPage;
 
   beforeEach(() => {
